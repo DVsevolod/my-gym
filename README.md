@@ -10,10 +10,13 @@ Backend сервер для сайта спортивного зала My-Gym.
 Swagger (url: /swagger/).
 
 Для проверки разрешений необходимо авторизоваться в Swagger при помощи токена. Токен вернется при вхождении в систему через Postman.
+
 ![token](https://github.com/DVsevolod/my-gym/blob/main/token.png)
 
 Приложение auth:
+
 ![auth](https://github.com/DVsevolod/my-gym/blob/main/auth.png)
 
 Приложение my_gym:
+
 ![my_gym](https://github.com/DVsevolod/my-gym/blob/main/my_gym.png)
