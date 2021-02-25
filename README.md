@@ -33,12 +33,12 @@ Staff может создавать, обновлять, удалять и пр�
 
 Для проверки разрешений необходимо авторизоваться в Swagger при помощи токена. Токен вернется при вхождении в систему через Postman.
 
-![token](https://github.com/DVsevolod/my-gym/img/blob/main/token.png)
+![token](https://github.com/DVsevolod/my-gym/blob/main/img/token.png)
 
 Приложение auth:
 
-![auth](https://github.com/DVsevolod/my-gym/img/main/auth.png)
+![auth](https://github.com/DVsevolod/my-gym/blob/main/img/auth.png)
 
 Приложение my_gym:
 
-![my_gym](https://github.com/DVsevolod/my-gym/img/main/my_gym.png)
+![my_gym](https://github.com/DVsevolod/my-gym/blob/main/img/my_gym.png)
