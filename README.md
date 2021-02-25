@@ -23,11 +23,11 @@ Staff может создавать, обновлять, удалять и пр�
 Деплой:
 Проект залит на Docker Hub, устанавливается при помощи команды:
 
-<docker pull vdanilintest/my-gym-backend-v1>
+    <docker pull vdanilintest/my-gym-backend-v1>
 
 Запуск:
 
-<docker run --rm --name my_gym -p 8080:8080 vdanilintest/my-gym-backend-v1>
+    <docker run --rm --name my_gym -p 8080:8080 vdanilintest/my-gym-backend-v1>
 
 **Swagger (url: /swagger/).**
 
