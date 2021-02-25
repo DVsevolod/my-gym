@@ -21,6 +21,7 @@ Staff может создавать, обновлять, удалять и пр�
 Документация написана при помощи SwaggerUI и доступна по url /swagger/.
 
 Деплой:
+
 Проект залит на Docker Hub, устанавливается при помощи команды:
 
     docker pull vdanilintest/my-gym-backend-v1
@@ -31,7 +32,24 @@ Staff может создавать, обновлять, удалять и пр�
 
 **Swagger (url: /swagger/).**
 
-Для проверки разрешений необходимо авторизоваться в Swagger при помощи токена. Токен вернется при вхождении в систему через Postman.
+Для проверки разрешений необходимо авторизоваться в Swagger при помощи токена. Токен вернется при вхождении в систему через Postman. 
+
+Для упрощения проверки функциональности можно использовать готовые профили.
+
+**Superuser**
+
+    email: admin@admin.com
+    password: admin
+    
+**Client**
+
+    email: anton@client.com
+    password: 12345678
+    
+**Staff**
+
+    email: srj@kach.com
+    password: 87654321
 
 ![token](https://github.com/DVsevolod/my-gym/blob/main/img/token.png)
 
@@ -39,6 +57,18 @@ Staff может создавать, обновлять, удалять и пр�
 
 ![auth](https://github.com/DVsevolod/my-gym/blob/main/img/auth.png)
 
-Приложение my_gym:
+Приложение my_gym/users:
 
-![my_gym](https://github.com/DVsevolod/my-gym/blob/main/img/my_gym.png)
+![users](https://github.com/DVsevolod/my-gym/blob/main/img/users.png)
+
+Приложение my_gym/services:
+
+![services](https://github.com/DVsevolod/my-gym/blob/main/img/services.png)
+
+Приложение my_gym/subscription:
+
+![sub](https://github.com/DVsevolod/my-gym/blob/main/img/sub.png)
+
+Приложение my_gym/position:
+
+![position](https://github.com/DVsevolod/my-gym/blob/main/img/position.png)
