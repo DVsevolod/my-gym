@@ -57,18 +57,20 @@ Staff может создавать, обновлять, удалять и пр�
 
 ![auth](https://github.com/DVsevolod/my-gym/blob/main/img/auth.png)
 
-Приложение my_gym/users:
+Приложение my_gym:
+
+Модель User:
 
 ![users](https://github.com/DVsevolod/my-gym/blob/main/img/users.png)
 
-Приложение my_gym/services:
+Модель Service:
 
 ![services](https://github.com/DVsevolod/my-gym/blob/main/img/services.png)
 
-Приложение my_gym/subscription:
+Модель Subscription:
 
 ![sub](https://github.com/DVsevolod/my-gym/blob/main/img/sub.png)
 
-Приложение my_gym/position:
+Модель Position:
 
-![position](https://github.com/DVsevolod/my-gym/blob/main/img/position.png)
+![position](https://github.com/DVsevolod/my-gym/blob/main/img/positions.png)
