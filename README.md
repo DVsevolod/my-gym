@@ -53,7 +53,11 @@ Staff может создавать, обновлять, удалять и пр�
 
 При использовании Swagger токен необходимо использовать по образцу:
 
-![token](https://github.com/DVsevolod/my-gym/blob/main/img/token.png)
+![token_swagger](https://github.com/DVsevolod/my-gym/blob/main/img/token.png)
+
+При использовании Postman токен необходимо вставить в header по образцу:
+
+![token_postman](https://github.com/DVsevolod/my-gym/blob/main/img/postman.png)
 
 Приложение auth:
 
